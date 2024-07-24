@@ -1,4 +1,4 @@
-# Advanced Computer Vision Surveillance System
+# Advanced Computer Vision Surveillance System (Ongoing Project)
 
 This project is an advanced computer vision surveillance system that allows for real-time monitoring, face recognition, and location tracking. The system includes features for managing cameras and persons, and displays the last known locations of identified persons on a map.
 
@@ -125,6 +125,13 @@ This project is an advanced computer vision surveillance system that allows for 
 
 - **GET /locations**: Get a list of all locations.
 - **GET /locations/person/{person_id}**: Get locations for a specific person.
+
+## Some Images
+
+![Screenshot 2024-07-03 184219](https://github.com/user-attachments/assets/bb645763-9b17-4b6b-8273-2e3bcb07dde8)
+![Screenshot 2024-07-03 184235](https://github.com/user-attachments/assets/9965d5e1-eff5-46ee-a053-69542ee8cc59)
+![Screenshot 2024-07-03 184254](https://github.com/user-attachments/assets/2b252c05-7c8e-4a8f-981a-38f2b0eac3cc)
+![Screenshot 2024-07-03 184313](https://github.com/user-attachments/assets/fbe0c169-febb-4753-946d-7fd074fbf894)
 
 ## License
 
